@@ -1,2 +1,5 @@
 # environment variables
 .env
+
+# cached stuff
+__pycache__
