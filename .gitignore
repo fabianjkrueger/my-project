@@ -3,3 +3,8 @@
 
 # cached stuff
 __pycache__
+
+# data base and runtime/temporary files
+faq.db
+*.db-shm
+*.db-wal
